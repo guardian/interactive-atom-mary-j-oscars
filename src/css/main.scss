@@ -475,7 +475,7 @@ blockquote.quoted:after {
   blockquote.quoted p {
     padding-bottom: 0px;
   }
-  .blockquote::before {
+  blockquote::before {
     color: $culture-gold;
   }
 }
